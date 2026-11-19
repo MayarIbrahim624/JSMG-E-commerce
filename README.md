@@ -14,7 +14,7 @@ The project was developed by a team of four students, and the name **JSMG** come
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live website](https://github.com/2023SAMA/Project)
+🔗 [Click here to view the live website](https://gehad-abdulaziz.github.io/JSMG/)
 
 ---
 
